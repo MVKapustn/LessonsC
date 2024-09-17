@@ -17,7 +17,7 @@ internal class Program
         int?[] nulls = new int?[10];
         foreach (var item in nulls)
         {
-            Console.Write(item + " ");
+
         }
     }
 }
